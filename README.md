@@ -1,2 +1,0 @@
-# Pizza-calculator
-School opdracht
